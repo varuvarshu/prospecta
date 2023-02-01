@@ -1,0 +1,56 @@
+
+Theoretical Challenge-----
+
+1.  How will you tackle the challenge above?
+
+First I will take help from error while writting programme.
+Codes should be neat and clean because if i get any error it is easy it find out.
+Also while writting codes keep focusing  on the syntaxes it will give errors if it is not proper.
+While witiing formulaes it ensures that it should be proper otherwise it should not give correct answer.
+After completing i will check on online tool csvLint.
+
+
+===========================================================================================
+
+2.Types of common error are as follows:
+
+1. File size : 
+
+One of the most common CSV import errors is that the file is simply too large. 
+That can be caused by too many fields or records in the file, too many columns, or too many rows. 
+The import error can be caused by limits set by the program using the file or the amount of 
+available memory on the system.
+
+2. Matching:
+
+Another key import error that pops up when uploading a CSV file is related to matching. 
+This could be columns that don’t match expected field names caused by different values 
+than expected, field names not on the first line, or simply the complete absence of column names.
+
+3. Translation:
+
+A data translation error could occur if the encoding is incorrect or unexpected. 
+Another cause could be the presence of non-standard characters that aren’t usable.
+
+4. Values:
+
+Issues with data values can be a significant cause of CSV importing errors. 
+These include unexpected data length – either too long or too short. 
+It could also mean unacceptable characters such as text in a numbers-only 
+column or numbers in a boolean
+
+5. Missing data
+
+Missing data is one of the most common errors for CSV imports. 
+Examples include incomplete data that can be fixed by a user such as 
+invoices that have month and day, but no year information.
+
+6. Non-digestible formats:
+
+Non-digestible formats include simple format mismatches that need format normalizations 
+such as phone numbers or social security numbers which are numbers only without symbols. 
+Complex format mismatches would need format normalization AND data normalization such as 
+when the date format is different than expected, inconsistent, or includes text rather 
+than being normalized.
+
+======================================================================================
